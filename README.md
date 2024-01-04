@@ -25,6 +25,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alecanl/alecanl/output/snake.svg](https://github.com/AlecANL/portfolio/blob/feature/branding-2024/public/images/snake.svg?raw=true)https://github.com/AlecANL/portfolio/blob/feature/branding-2024/public/images/snake.svg?raw=true" alt="Snake animation" />
+<img src="https://github.com/AlecANL/portfolio/blob/feature/branding-2024/public/images/snake.svg?raw=true" alt="Snake animation" />
 
 ###
